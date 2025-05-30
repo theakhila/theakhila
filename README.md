@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Akhila!
 
-<!--
-**theakhila/theakhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 1st-year CSE student with a passion for technology and coding.  
+🌱 Currently learning: C, Python, and Data Structures  
+💻 Interested in Web Development & AI  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mudimadugula-akhila-317067325)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages & Tools
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+
+---3
